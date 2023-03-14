@@ -1,0 +1,1 @@
+const metingJs=document.querySelector("#nav-music meting-js");metingJs.contains(event.target);
