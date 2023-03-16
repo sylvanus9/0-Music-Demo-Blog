@@ -1442,7 +1442,7 @@ hr:before {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\f2dc';
+  content: '\f4fb';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
@@ -11552,13 +11552,13 @@ figure.highlight pre .deletion {
 }
 
 /* 分割线 */
-hr {
+/* hr {
   border: 2px dashed var(--high-trans-color) !important;
 }
 
 hr:before {
-  color: var(--theme-color) !important;
-}
+  color: #c9a1eb !important;
+} */
 
 /* 版权下面标签排列 */
 #post .tag_share .post-meta__tag-list {
